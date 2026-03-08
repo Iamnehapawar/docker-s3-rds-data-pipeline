@@ -83,7 +83,7 @@ s3-rds-glue-project
 ├── requirements.txt
 ├── README.md
 │
-└── screenshots
+└── img/
      
 ```
 
